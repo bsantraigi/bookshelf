@@ -1,1 +1,1 @@
-empty BOOKSHELF repo
+!empty BOOKSHELF repo
